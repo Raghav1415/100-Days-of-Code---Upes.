@@ -19,7 +19,7 @@ int main(){
   printf("Enter length of the rectangle : ");
   scanf("%d",&l);
   printf("Enter breadth of the rectangle : ");
-  scanf("%d"&b);
+  scanf("%d",&b);
   area = l*b;
   perimeter = 2*(l+b);
   printf("The area and perimeter of the rectangle is %d and %d",area,perimeter);
