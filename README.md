@@ -4,3 +4,6 @@ This will help me and all of you to access basic codes easily gradually advancin
 This includes 200 codes in C language. Although the codes are in C language but the logic is ame everywhere,this will increase the understanding of C language.
 And we will together starting from the basics will dive deep into C language.
 
+Every 10 questions are divided into branches like question 1-10 are in a branch and question 11-20 in another branch. 
+As the branches increase the diificulty of the programs will increase as well and the codes will slowly get complexas we move closer to our goal of 200 codes.
+
